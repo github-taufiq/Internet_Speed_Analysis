@@ -1,0 +1,20 @@
+Analysis of the Internet Speed in India(April 2021)
+
+-> Total No of Data in RAW DATA : 275077 users
+-> Total categories of items: Operator, Technology, Download, Speed, Signal Strength, Internet Service Providing States
+
+
+->No of Users: 	JIO-151,499
+		Airtel-74628
+		Vodafone-17107
+		Cellone-9487 
+
+Details Analysis Summary: 
+1. 	Opertaor jio has highest number of user in India with 151,499.
+	Second competitor in the market Airtel has only half of its Jio's User with 74628.
+2.	From the statisics it is clear that Airtel provides the best speed of internet with average speed of 4.4 	mbps.
+	Whereas JIO, Vodafone, Idea & Cellone are not even crossed the average speed of 4 mbps.
+3. 	Most of the users in India are from Maharashtra, Andra Pradesh, Karnataka, UP & Tamil Nadu out of 	other 23 states.
+4.	Low no. of Internet users in India are North East, J&K, Asssam, Himachal Pradesh
+5. 	We can clearly see that 4G in India has grown rapidly in India with enormously almost 25 times than 3G 	users
+ 	
